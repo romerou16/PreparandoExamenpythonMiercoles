@@ -1,0 +1,11 @@
+	Normalizacion
+
+Primera forma normal: Se trata de identificar dos campos que causan duplicidad de la informacion
+para luego ser separados.
+
+Segunda forma normal: Se toma el insumo de la primera forma normal y se construyen
+las tablas.
+
+Tercera forma normal: Es tomar el insumo de la segunda forma normal y aplicar cardinalidad
+o mapeo; esto para establecer realaciones por medio de claves foraneas y tambien crear tablas
+intermedias.
